@@ -3,6 +3,8 @@ package mylab.library.entity;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// 살짝 다듬을 필요 있음
 public class Library {
 	private List<Book> books;
 	private String name;
